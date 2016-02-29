@@ -22,7 +22,7 @@ Use "userId" key to get user id and "email" to get email id.
 
 3. In your project AppDelegate add these code as below:
 
-	3.1 in method didFinishLaunchingWithOptions add
+	3.1 in method didFinishLaunchingWithOptions add:
 	
 	    	[[FBSDKApplicationDelegate sharedInstance] application:application
                              didFinishLaunchingWithOptions:launchOptions];
